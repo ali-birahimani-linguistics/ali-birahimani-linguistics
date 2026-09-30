@@ -1,6 +1,6 @@
 # Dr. Ali Hussain Birahimani
 
-Ali H. Birahimani is a linguist investigating acoustic phonetics and diachronic phonology, with a specialty in diachronic trajectories of **laryngeal contrasts**. His research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, notably **Balochi** and **Siraiki**. 
+Ali H. Birahimani is a linguist investigating acoustic phonetics and diachronic phonology, and a specialist of diachronic trajectories of **laryngeal contrasts**. His research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, notably **Balochi** and **Siraiki**. 
 
 He recently completed his PhD at the **University of Oslo** (2026), in the field of Experimental Phonology, documenting the cross-linguistically rare process of *transposition of aspiration*, known also as **Aspiration Throwback**, in dialectal Balochi.
 
