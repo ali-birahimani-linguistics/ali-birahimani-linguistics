@@ -1,4 +1,4 @@
-# Dr. Ali Hussain Birahimani
+# Ali Hussain Birahimani
 
 Ali H. Birahimani is a linguist investigating acoustic phonetics and diachronic phonology, and a specialist of diachronic trajectories of **laryngeal contrasts**. His research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, notably **Balochi** and **Siraiki**. 
 
