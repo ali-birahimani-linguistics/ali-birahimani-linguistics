@@ -25,7 +25,7 @@ I recently completed my PhD at the **University of Oslo** (2026), in the field o
 
 ### Open Science & Reproducibility
 * **Data:** My primary experimental data and permanent DOIs are hosted on my [OSF Profile](https://osf.io/user/3ztyr).
-* **Publications:** My articles, chapters, proceedings, doctoral monograph, and other academic writings can also be found on my [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Birahimani) and [Academia.edu Profile](https://uio.academia.edu/AliBirahimani).
+* **Publications:** My articles, chapters, proceedings, doctoral monograph, and other academic writings can also be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=QEYpYxcAAAAJ&hl=en), [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Birahimani), or [Academia.edu Profile](https://uio.academia.edu/AliBirahimani).
 
 ---
 
