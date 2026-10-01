@@ -31,7 +31,7 @@ I recently completed my PhD at the **University of Oslo** (2026), in the field o
 
 ### Publications
 * **(2026)** *Documentation of transposition of aspiration in dialectal Balochi*. Doctoral dissertation, University of Oslo. ([Oslo Library Repository](https://bibsys-k.primo.exlibrisgroup.com)).
-* **(2026)** Balochi of the Indo-Iranian frontier: Some phonetic and phonological considerations on aspiration and retroflexion. In R. Falahati & Z. Ghane (Eds.), *Handbook of phonetics and phonology of modern Iranian languages*. Singapore: Springer Publishing. ([Springer Link](https://doi.org/10.1007/978-981-95-0383-4_7)).
+* **(2026)** Balochi of the Indo-Iranian frontier: Some phonetic and phonological considerations on aspiration and retroflexion. In R. Falahati & Z. Ghane (Eds.), *Handbook of phonetics and phonology of modern Iranian languages*, pp. 155–198. Singapore: Springer Publishing. ([Springer Link](https://doi.org/10.1007/978-981-95-0383-4_7)).
 * **(2023)** The stative primary aspect in Siraiki. In G. Sharma & J. J. Lowe (Eds.), *Advances in South Asian Linguistics*, pp. 89–128. Munich: LINCOM. *(With John J. Lowe)* ([LINCOM Shop](https://lincom-shop.eu/LW-64-Advances-in-South-Asian-Linguistics/en)). 
 * **(2021)** Reviewing the history and development of aspiration in Eastern Balochi. *Journal of Historical Linguistics*, 11(3): 457–498. ([*JHL* Link](https://doi.org/10.1075/jhl.19010.bir)). 
 * **(2020)** Some observations on aspiration and glottal fricatives in languages with a phonological contrast. *Lingua*, 244: 102–125. ([*Lingua* Link](https://doi.org/10.1016/j.lingua.2020.102895)).
