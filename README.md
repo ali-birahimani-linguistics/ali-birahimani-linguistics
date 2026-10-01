@@ -1,8 +1,8 @@
 # Ali Hussain Birahimani
 
-Ali H. Birahimani is a linguist investigating acoustic phonetics and diachronic phonology, and a specialist of diachronic trajectories of **laryngeal contrasts**. His research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, notably **Balochi** and **Siraiki**. 
+I am a linguist investigating acoustic phonetics and diachronic phonology, and a specialist of diachronic trajectories of **laryngeal contrasts**. My research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, notably **Balochi** and **Siraiki**. 
 
-He recently completed his PhD at the **University of Oslo** (2026), in the field of Experimental Phonology, documenting the cross-linguistically rare process of *transposition of aspiration*, known also as **Aspiration Throwback**, in dialectal Balochi.
+I recently completed my PhD at the **University of Oslo** (2026), in the field of Experimental Phonology, documenting in dialectal Balochi the cross-linguistically rare process of *transposition of aspiration*, known also as **Aspiration Throwback**.
 
 ---
 
@@ -10,7 +10,7 @@ He recently completed his PhD at the **University of Oslo** (2026), in the field
 * **Phonetics & Phonology:** Acoustic Phonetics, Laryngeal Contrasts, Aspiration Systems, Phonological Aspiration
 * **Morpho-Syntax:** Grammaticalisation, Degrammaticalisation, Aspect, Tense, Modality, Semantic Change
 * **Comparative-Historical Linguistics:** Diachronic Typology, Phonological Reconstruction, Morphological Reconstruction 
-* **Languages:** Indo-Iranian (in its three historical periods), Indo-European, Sinitic
+* **Languages:** Indo-Iranian (in all three historical periods), Indo-European, Sinitic
 * **Interdisciplinary Interests:** Indo-European Studies, Diachronic Sinitic, History, Anthropology
 
 ---
@@ -25,12 +25,12 @@ He recently completed his PhD at the **University of Oslo** (2026), in the field
 
 ### Open Science & Reproducibility
 * **Data:** My primary experimental data and permanent DOIs are hosted on my [OSF Profile](https://osf.io/user/3ztyr).
-* **Publications:** My published papers, chapters, proceedings, doctoral monograph, and other academic writings can also be found on my [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Birahimani) and [Academia.edu Profile](https://uio.academia.edu/AliBirahimani).
+* **Publications:** My articles, chapters, proceedings, doctoral monograph, and other academic writings can also be found on my [ResearchGate Profile](https://www.researchgate.net/profile/Ali-Birahimani) and [Academia.edu Profile](https://uio.academia.edu/AliBirahimani).
 
 ---
 
 ### Publications
-* **(2026)** *Documentation of transposition of aspiration in dialectal Balochi*. Doctoral dissertation, University of Oslo. ([Oslo Library Repository](https://exlibrisgroup.com)).
+* **(2026)** *Documentation of transposition of aspiration in dialectal Balochi*. Doctoral dissertation, University of Oslo. ([Oslo Library Repository](https://bibsys-k.primo.exlibrisgroup.com)).
 * **(2026)** Balochi of the Indo-Iranian frontier: Some phonetic and phonological considerations on aspiration and retroflexion. In R. Falahati & Z. Ghane (Eds.), *Handbook of phonetics and phonology of modern Iranian languages*. Singapore: Springer Publishing. ([Springer Link](https://doi.org/10.1007/978-981-95-0383-4_7)).
 * **(2023)** The stative primary aspect in Siraiki. In G. Sharma & J. J. Lowe (Eds.), *Advances in South Asian Linguistics*, pp. 89–128. Munich: LINCOM. ([LINCOM Shop](https://lincom-shop.eu/LW-64-Advances-in-South-Asian-Linguistics/en)). *(With John J. Lowe)*
 * **(2021)** Reviewing the history and development of aspiration in Eastern Balochi. *Journal of Historical Linguistics*, 11(3): 457–498. ([*JHL* Link](https://doi.org/10.1075/jhl.19010.bir)). 
@@ -38,7 +38,7 @@ He recently completed his PhD at the **University of Oslo** (2026), in the field
 * **(2019)** 'The argument structure of Siraiki causatives'. In M. Butt, T. H. King and I. Toivonen (Eds.), *Proceedings of the LFG’19 conference*, pp. 191–211. CSLI Publications. ([Stanford CSLI PDF](https://web.stanford.edu/group/cslipublications/cslipublications/LFG/LFG-2019/lfg2019-lowe-birahimani.pdf)). *(With John J. Lowe)*
 * **(2019)** Causative alternations in Siraiki. *Transactions of the Philological Society*, 117(2): 266–293. ([*TPhS* Link](https://doi.org/10.1111/1467-968X.12158)).  *(With John J. Lowe)*
 * **(2017)** Language of the Khetrans of Barkhan of Pakistani Balochistan: A preliminary description. *Lingua*, 191–192: 3–21. ([*Lingua* Link](https://doi.org/10.1016/j.lingua.2016.12.003)). *(With Fasih Ahmed)*
-* **(2015)** Some observations on stress in Siraiki language. In *Proceedings of Emerging trends of researching language, linguistics and literature*, pp. 172–180. ([External Link](https://www.researchgate.net/publication/399953681.))
+* **(2015)** Some observations on stress in Siraiki language. In *Proceedings of Emerging trends of researching language, linguistics and literature*, pp. 172–180. ([External Link](https://www.researchgate.net/publication/399953681)).
 
 ---
 
