@@ -42,6 +42,12 @@ I recently completed my PhD at the **University of Oslo** (2026), in the field o
 
 ---
 
+### Other Academic Writings
+* **(under review)** Phonological aspiration in neutralizing context: To deaspirate or to throwback? (Journal of Phonetics). ([Preprint Link](http://dx.doi.org/10.2139/ssrn.7119405)). 
+* **(2018)** An acoustic analysis of the fricative sounds in Eastern Balochi. MSt thesis, University of Oxford. ([External Link](https://www.researchgate.net/publication/399953843)). 
+
+---
+
 ### Reviewed Conference/Workship Presentations
 * ‘Trisecting the VOT continuum: From phonetic to “phonological” aspiration’, 8th Meeting Programme of *Fonologi i Norden*, Vytautas Magnus University, Kaunas, 19–20 January **2023**.
 * ‘Some consequences of lenition on the verb system of Eastern Balochi’, *9th International Conference on Iranian Linguistics*, Austrian Academy of Sciences, Vienna, 18–20 August **2021**.
