@@ -8,7 +8,7 @@ I recently completed my PhD at the **University of Oslo** (2026), in the field o
 
 ### Research Interests
 * **Phonetics & Phonology:** Acoustic Phonetics, Laryngeal Contrasts, Aspiration Systems, Phonological Aspiration
-* **Morpho-Syntax:** Grammaticalisation, Degrammaticalisation, Aspect, Tense, Modality, Semantic Change
+* **Morpho-Syntax:** Grammaticalisation, Degrammaticalisation, Semantic Change, Aspect System, Complex Predication
 * **Comparative-Historical Linguistics:** Diachronic Typology, Phonological Reconstruction, Morphological Reconstruction 
 * **Languages:** Indo-Iranian (in all three historical periods), Indo-European, Sinitic
 * **Interdisciplinary Interests:** Indo-European Studies, Diachronic Sinitic, History, Anthropology
