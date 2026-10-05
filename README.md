@@ -1,6 +1,6 @@
 # Ali Hussain Birahimani
 
-I am a linguist investigating acoustic phonetics and diachronic phonology, and a specialist of diachronic trajectories of **laryngeal contrasts**. My research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, notably **Balochi** and **Siraiki**. 
+I am a linguist investigating acoustic phonetics and diachronic phonology, and a specialist of diachronic trajectories of **laryngeal contrasts**. My research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, particularly **Balochi** and **Siraiki**. 
 
 I recently completed my PhD at the **University of Oslo** (2026), in the field of Experimental Phonology, documenting in dialectal Balochi the cross-linguistically rare process of *transposition of aspiration*, known also as **Aspiration Throwback**.
 
@@ -48,7 +48,7 @@ I recently completed my PhD at the **University of Oslo** (2026), in the field o
 
 ---
 
-### Reviewed Conference/Workship Presentations
+### Reviewed Conference/Workshop Presentations
 * ‘Trisecting the VOT continuum: From phonetic to “phonological” aspiration’, 8th Meeting Programme of *Fonologi i Norden*, Vytautas Magnus University, Kaunas, 19–20 January **2023**.
 * ‘Some consequences of lenition on the verb system of Eastern Balochi’, *9th International Conference on Iranian Linguistics*, Austrian Academy of Sciences, Vienna, 18–20 August **2021**.
 * ‘Some issues of laryngeals and aspiration in Indo-European reconstruction’, Workshop to *Proto-Indo-European Reconstruction: Problems, possibilities and new perspectives*, University of Cambridge, Cambridge, 28 June **2021**.
@@ -58,4 +58,4 @@ I recently completed my PhD at the **University of Oslo** (2026), in the field o
 * ‘A preliminary description of the language of the Khetrans of Barkhan’, *1st Social Sciences Conference*, Sardar Bahadur Khan Women’s University, Quetta, 26–27 April **2016**. 
 * ‘Some observations on stress in Siraiki language’, *Emerging trends of researching language, linguistics and literature*, Air University, Islamabad, 15–16 December **2015**.
 * ‘The linguistic position of Khetrani by a comparison with Sindhi and Siraiki’, *1st International Conference of Linguistic Association of Pakistan*, Kinnaird College for Women, Lahore, 7–9 October **2015**.
-* ‘Revisiting connective and participial compounds in Siraiki’, *1st International Conference of Linguistic Association of Pakistan*, Kinnaird College for Women, Lahore, October **2015**.
+* ‘Revisiting connective and participial compounds in Siraiki’, *1st International Conference of Linguistic Association of Pakistan*, Kinnaird College for Women, Lahore, 7–9 October **2015**.
