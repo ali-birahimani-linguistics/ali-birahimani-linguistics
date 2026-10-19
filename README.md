@@ -1,8 +1,8 @@
-# Ali Hussain Birahimani
+# Ali H. Birahimani
 
-I am a linguist investigating acoustic phonetics and diachronic phonology, and a specialist of diachronic trajectories of **laryngeal contrasts**. My research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, particularly **Balochi** and **Siraiki**. 
+I am a linguist investigating acoustic phonetics and diachronic phonology, and a specialist of diachronic trajectories of **laryngeal contrasts**. My published research work has concentrated on descriptive and historical linguistics, with a primary focus on languages of the Indo-Iranian frontier, particularly **Balochi** and **Siraiki**. 
 
-I recently completed my PhD at the **University of Oslo** (2026), in the field of Experimental Phonology, documenting in dialectal Balochi the cross-linguistically rare process of *transposition of aspiration*, known also as **Aspiration Throwback**.
+I recently completed my PhD at the **University of Oslo** (2026), in Experimental Phonology, documenting in dialectal Balochi the cross-linguistically rare process of *transposition of aspiration*, known also as **Aspiration Throwback**.
 
 ---
 
@@ -11,7 +11,7 @@ I recently completed my PhD at the **University of Oslo** (2026), in the field o
 * **Morpho-Syntax:** Grammaticalisation, Degrammaticalisation, Semantic Change, Aspect System, Complex Predication
 * **Comparative-Historical Linguistics:** Diachronic Typology, Phonological Reconstruction, Morphological Reconstruction 
 * **Languages:** Indo-Iranian (in all three historical periods), Indo-European, Sinitic
-* **Interdisciplinary Interests:** Indo-European Studies, Diachronic Sinitic, History, Anthropology
+* **Interdisciplinary Interests:** Indo-European Studies, Diachronic Sinitic, History, Archaeology, Anthropology
 
 ---
 
@@ -31,8 +31,8 @@ I recently completed my PhD at the **University of Oslo** (2026), in the field o
 
 ### Publications
 * **(2026)** *Documentation of transposition of aspiration in dialectal Balochi*. Doctoral dissertation, University of Oslo. ([Oslo Library Repository](https://bibsys-k.primo.exlibrisgroup.com) and [Faculty of Humanities Website](https://www.hf.uio.no/iln/english/research/news-and-events/events/disputations/2026/hussain-dissertation_final.pdf)).
-* **(2026)** Balochi of the Indo-Iranian frontier: Some phonetic and phonological considerations on aspiration and retroflexion. In R. Falahati & Z. Ghane (Eds.), *Handbook of phonetics and phonology of modern Iranian languages*, pp. 155–198. Singapore: Springer Publishing. ([Springer Link](https://doi.org/10.1007/978-981-95-0383-4_7)).
-* **(2023)** The stative primary aspect in Siraiki. In G. Sharma & J. J. Lowe (Eds.), *Advances in South Asian Linguistics*, pp. 89–128. Munich: LINCOM. *(With John J. Lowe)* ([LINCOM Shop](https://lincom-shop.eu/LW-64-Advances-in-South-Asian-Linguistics/en)). 
+* **(2026)** 'Balochi of the Indo-Iranian frontier: Some phonetic and phonological considerations on aspiration and retroflexion'. In R. Falahati & Z. Ghane (Eds.), *Handbook of phonetics and phonology of modern Iranian languages*, pp. 155–198. Singapore: Springer Publishing. ([Springer Link](https://doi.org/10.1007/978-981-95-0383-4_7)).
+* **(2023)** 'The stative primary aspect in Siraiki'. In G. Sharma & J. J. Lowe (Eds.), *Advances in South Asian Linguistics*, pp. 89–128. Munich: LINCOM. *(With John J. Lowe)* ([LINCOM Shop](https://lincom-shop.eu/LW-64-Advances-in-South-Asian-Linguistics/en)). 
 * **(2021)** Reviewing the history and development of aspiration in Eastern Balochi. *Journal of Historical Linguistics*, 11(3): 457–498. ([*JHL* Link](https://doi.org/10.1075/jhl.19010.bir)). 
 * **(2020)** Some observations on aspiration and glottal fricatives in languages with a phonological contrast. *Lingua*, 244: 102–125. ([*Lingua* Link](https://doi.org/10.1016/j.lingua.2020.102895)).
 * **(2019)** 'The argument structure of Siraiki causatives'. In M. Butt, T. H. King and I. Toivonen (Eds.), *Proceedings of the LFG’19 conference*, pp. 191–211. CSLI Publications. *(With John J. Lowe)*. ([Stanford CSLI PDF](https://web.stanford.edu/group/cslipublications/cslipublications/LFG/LFG-2019/lfg2019-lowe-birahimani.pdf)).
