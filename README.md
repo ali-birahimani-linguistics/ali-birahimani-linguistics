@@ -36,14 +36,14 @@ I recently completed my PhD at the **University of Oslo** (2026), in Experimenta
 * **(2021)** Reviewing the history and development of aspiration in Eastern Balochi. *Journal of Historical Linguistics*, 11(3): 457–498. ([*JHL* Link](https://doi.org/10.1075/jhl.19010.bir)). 
 * **(2020)** Some observations on aspiration and glottal fricatives in languages with a phonological contrast. *Lingua*, 244: 102–125. ([*Lingua* Link](https://doi.org/10.1016/j.lingua.2020.102895)).
 * **(2019)** 'The argument structure of Siraiki causatives'. In M. Butt, T. H. King and I. Toivonen (Eds.), *Proceedings of the LFG’19 conference*, pp. 191–211. CSLI Publications. *(With John J. Lowe)*. ([Stanford CSLI PDF](https://web.stanford.edu/group/cslipublications/cslipublications/LFG/LFG-2019/lfg2019-lowe-birahimani.pdf)).
-* **(2019)** Causative alternations in Siraiki. *Transactions of the Philological Society*, 117(2): 266–293. *(With John J. Lowe)*. ([*TPhS* Link](https://doi.org/10.1111/1467-968X.12158)).
+* **(2019)** Causative alternations in Siraiki. *Transactions of the Philological Society*, 117(2): 266–293. *(With John J. Lowe)*. ([*TPhS* Link](https://doi.org/10.1111/1467-968X.12158) and [External Link to Preprint](https://ora.ox.ac.uk/objects/uuid:033c6153-3f5b-4896-a1d3-9749254835fd/files/m455b04158b280683f4ad31b7c67b5c65)).
 * **(2017)** Language of the Khetrans of Barkhan of Pakistani Balochistan: A preliminary description. *Lingua*, 191–192: 3–21. *(With Fasih Ahmed)*. ([*Lingua* Link](https://doi.org/10.1016/j.lingua.2016.12.003)).
 * **(2015)** Some observations on stress in Siraiki language. In *Proceedings of Emerging trends of researching language, linguistics and literature*, pp. 172–180. ([External Link](https://www.researchgate.net/publication/399953681)).
 
 ---
 
 ### Other Academic Writings
-* **(under review)** Phonological aspiration in neutralizing context: To deaspirate or to throwback? (Journal of Phonetics). ([Preprint Link](http://dx.doi.org/10.2139/ssrn.7119405)). 
+* **(under review)** Phonological aspiration in neutralizing context: To deaspirate or to throwback? (Journal of Phonetics). ([External Link to Preprint](http://dx.doi.org/10.2139/ssrn.7119405)).
 * **(2018)** An acoustic analysis of the fricative sounds in Eastern Balochi. MSt thesis, University of Oxford. ([External Link](https://www.researchgate.net/publication/399953843)). 
 
 ---
