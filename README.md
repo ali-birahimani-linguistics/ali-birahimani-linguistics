@@ -37,7 +37,7 @@ I recently completed my PhD at the **University of Oslo** (2026), in Experimenta
 * **(2020)** Some observations on aspiration and glottal fricatives in languages with a phonological contrast. *Lingua*, 244: 102–125. ([Lingua Link](https://doi.org/10.1016/j.lingua.2020.102895)).
 * **(2019)** 'The argument structure of Siraiki causatives'. In M. Butt, T. H. King and I. Toivonen (Eds.), *Proceedings of the LFG’19 conference*, pp. 191–211. CSLI Publications. *(With John J. Lowe)*. ([Stanford CSLI PDF](https://web.stanford.edu/group/cslipublications/cslipublications/LFG/LFG-2019/lfg2019-lowe-birahimani.pdf)).
 * **(2019)** Causative alternations in Siraiki. *Transactions of the Philological Society*, 117(2): 266–293. *(With John J. Lowe)*. ([TPhS Link](https://doi.org/10.1111/1467-968X.12158) and [External Link to Preprint](https://ora.ox.ac.uk/objects/uuid:033c6153-3f5b-4896-a1d3-9749254835fd/files/m455b04158b280683f4ad31b7c67b5c65)).
-* **(2017)** Language of the Khetrans of Barkhan of Pakistani Balochistan: A preliminary description. *Lingua*, 191–192: 3–21. *(With Fasih Ahmed)*. ([*Lingua* Link](https://doi.org/10.1016/j.lingua.2016.12.003)).
+* **(2017)** Language of the Khetrans of Barkhan of Pakistani Balochistan: A preliminary description. *Lingua*, 191–192: 3–21. *(With Fasih Ahmed)*. ([Lingua Link](https://doi.org/10.1016/j.lingua.2016.12.003)).
 * **(2015)** Some observations on stress in Siraiki language. In *Proceedings of Emerging trends of researching language, linguistics and literature*, pp. 172–180. ([External Link](https://www.researchgate.net/publication/399953681)).
 
 ---
